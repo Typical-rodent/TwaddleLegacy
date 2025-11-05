@@ -13,7 +13,7 @@ export const tweetsData = [
     },
     {
         handle: `@Elon ✅`,
-        profilePic: `Elon.jpg`,
+        profilePic: `Images/Elon.jpeg`,
         likes: 6500,
         retweets: 234,
         tweetText: `We are renaming earth to meme land, we are meme!!! make earth great again!!!`,
@@ -26,19 +26,19 @@ export const tweetsData = [
     },
     {
         handle: `@c00lkidd`,
-        profilePic: `c00lkid.png`,
+        profilePic: `Images/c00lkid.png`,
         likes: 10,
         retweets: 3,
         tweetText: `l0l1p0p!!11 l0l1p0p!!11 l0l1p0p!!11 l0l1p0p!!11`,
         replies: [
             {
                 handle: `@1x1x1x1`,
-                profilePic: `1ex4.jpeg`,
+                profilePic: `Images/1ex3.jpeg`,
                 tweetText: `shut up & fuck you`,
             },
             {
                 handle: `@007n7`,
-                profilePic: `007n7&coolkid.jpg`,
+                profilePic: `Images/7n7&CK.jpg`,
                 tweetText: `PLZ, come back home son`,
             },
         ],
@@ -48,7 +48,7 @@ export const tweetsData = [
     },
     {
         handle: `@Elon ✅`,
-        profilePic: `Elon.jpg`,
+        profilePic: `Images/Elon.jpg`,
         likes: 5,
         retweets: 234,
         tweetText: `now I need volunteers for a mission to Build a time machine, Alot Of experience and faith necessary!!!`,
