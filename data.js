@@ -55,7 +55,7 @@ export const tweetsData = [
         replies: [
             {
                 handle: `@Donald. Trump ✅`,
-                profilePic: `donmugshot.jpeg`,
+                profilePic: `Images/donmugshot.jpeg`,
                 tweetText: `Yes, instead of a wall, a machine in time, SEND THEM BACK TO THE 1800's!!!!`,
             },
             {
@@ -70,14 +70,14 @@ export const tweetsData = [
     },
     {
         handle: `@WINston ✅`,
-        profilePic: `Churchill.jpg`,
+        profilePic: `Images/Churchill.jpg`,
         likes: 2,
         retweets: 2,
         tweetText: `UK parliament pls forgive me for being racist!!!! `,
         replies: [
             {
                 handle: `@Jefferson Finis Davis ✅`,
-                profilePic: `confedjeff.jpg`,
+                profilePic: `Images/confedjeff.jpg`,
                 tweetText: `you should secede from UK, like me.
                             `,
             },
@@ -100,7 +100,7 @@ export const tweetsData = [
         replies: [
             {
                 handle: `@Elon✅`,
-                profilePic: `Elon.jpg`,
+                profilePic: `Images/Elon.jpg`,
                 tweetText: `Tratior!!!!`,
             },
             
@@ -112,14 +112,14 @@ export const tweetsData = [
     },
     {
         handle: `@MalumCeado ✅` ,
-        profilePic: `malumm.jfif`,
+        profilePic: `Images/malumm.jfif`,
         likes: 40000,
         retweets: 500000,
         tweetText: ` <img src="BOLTT.png"> PLEASE TRY MY GAME, IM THE MAIN CHARACTER`,
         replies: [
             {
                 handle: `@GREAT UNCLEAN ONE`, 
-                profilePic: `nurge.jpg`,
+                profilePic: `Images/nurge.jpg`,
                 tweetText: `WHY DID YOU KILL MY MINIONS AND ME BUT NOT KHORNE`,
             },
             {
@@ -134,14 +134,14 @@ export const tweetsData = [
     },
     {
         handle: `@WilliamIssacIIV `,
-        profilePic: `brit.png`,
+        profilePic: `Images/brit.png`,
         likes: 2,
         retweets: 2,
         tweetText: `Enjoying this delectable spotted dick at the moment. God save the queen!! <img src="spotted.png"> `,
         replies: [
             {
                 handle: ` @TrueRedPatriot778 `,
-                profilePic: ` redneck.png `,
+                profilePic: `Images/redneck.png `,
                 tweetText: ` THaT LoOks LIkE SHhhHh!t `,
             },
         ],
@@ -151,25 +151,25 @@ export const tweetsData = [
     },
     {
         handle: `@NOT_SCP`,
-        profilePic: `SCP.png`,
+        profilePic: `Images/SCP.png`,
         likes: 0,
         retweets: 50000000000,
-        tweetText: ` <img src="SCPCB.png"> GUESS WHAT, still no multiplayer
+        tweetText: ` <img src="Images/SCPCB.png"> GUESS WHAT, still no multiplayer
         but we made bug fixes`,
         replies: [
             {
                 handle: `@Chaos `,
-                profilePic: `Chaos.png`,
+                profilePic: `Images/Chaos.png`,
                 tweetText: ` good to know`,
             },
             {
                 handle: `@noober `,
-                profilePic: ``,
+                profilePic: `Images/meowl`,
                 tweetText: ` good to know`,
             },
             {
                 handle: `@@BloodyS1asher`,
-                profilePic: `Jason.png`,
+                profilePic: `Images/Jason.png`,
                 tweetText: ` ...... `,
             },
         ],
@@ -179,7 +179,7 @@ export const tweetsData = [
     },
     {
         handle: `@MEME_lOver `,
-        profilePic: `SIMP.png`,
+        profilePic: `Image/SIMP.png`,
         likes: 5,
         retweets: 234,
         tweetText: `MEMEs for the MEME gods
@@ -189,132 +189,132 @@ export const tweetsData = [
         replies: [
             {
                 handle: `@Donald. Trump ✅`,
-                profilePic: `donmugshot.jpeg`,
+                profilePic: `Images/donmugshot.jpeg`,
                 tweetText: `UN FUNNY DEPORTED!!!!!!!!!!!!!!!!!!!!!!!`,
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted. png`,
+                profilePic: `Images/spotted. png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
+                tweetText: `let me lick ur booty`
+            },
+            {
+                handle: `@bootylicker67`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
-                tweetText: `let me lick ur booty`
-            },
-            {
-                handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@BloodyS1asher`,
-                profilePic: `Jason.png`,
+                profilePic: `Images/Jason.png`,
                 tweetText: ` ...... `,
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `[MODERATED]`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
+                tweetText: `wash ur booty`
+            },
+            {
+                handle: `@bootylicker45`,
+                profilePic: `Images/spotted. png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted. png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
             {
                 handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
-                tweetText: `let me lick ur booty`
-            },
-            {
-                handle: `@bootylicker45`,
-                profilePic: `spotted.png`,
+                profilePic: `Images/spotted.png`,
                 tweetText: `let me lick ur booty`
             },
         ],
@@ -324,19 +324,19 @@ export const tweetsData = [
     },
     {
         handle: `@idksterling`,
-        profilePic: `mason.png`,
+        profilePic: `Images/mason.png`,
         likes: 69,
         retweets: 5,
         tweetText: ` <img src="download.png"> meowl my fav`,
         replies: [
             {
                 handle: `@Joe Bartalozi  `,
-                profilePic: `joe.png`,
+                profilePic: `Images/joe.png`,
                 tweetText: `Oh when the saints....`,
             },
             {
                 handle: `@Ray William Johnson `,
-                profilePic: `ray.png`,
+                profilePic: `Images/ray.png`,
                 tweetText: `go marching innnnn!`,
             },
         ],
@@ -346,14 +346,14 @@ export const tweetsData = [
     },
     {
         handle: `@Bl00dyS1asher`,
-        profilePic: `Jason.png`,
+        profilePic: `Images/Jason.png`,
         likes: 3,
         retweets: 7789,
         tweetText: ` <img src="https://media1.tenor.com/m/AVf3jE-4h4EAAAAC/halloween-jason.gif"> `,
         replies: [
             {
                 handle: `@c00lkidd`,
-                profilePic: `c00lkid.png`,
+                profilePic: `Images/c00lkid.png`,
                 tweetText: `ur so c00l....`,
             },
         ],
@@ -370,12 +370,12 @@ export const tweetsData = [
         replies: [
             {
                 handle: `@BloodyS1asher`,
-                profilePic: `Jason.png`,
+                profilePic: `Images/Jason.png`,
                 tweetText: `.....`,
             },
             {
                 handle: `@c00lkidd`,
-                profilePic: `c00lkid.png`,
+                profilePic: `Images/c00lkid.png`,
                 tweetText: `AAAAAAAAA`,
             },
         ],
