@@ -48,7 +48,7 @@ export const tweetsData = [
     },
     {
         handle: `@Elon ✅`,
-        profilePic: `Images/Elon.jpg`,
+        profilePic: `Images/Elon.jpeg`,
         likes: 5,
         retweets: 234,
         tweetText: `now I need volunteers for a mission to Build a time machine, Alot Of experience and faith necessary!!!`,
@@ -83,7 +83,7 @@ export const tweetsData = [
             },
             {
                 handle: `@stalin ✅`,
-                profilePic: `stalinslove.jpg`,
+                profilePic: `.stalinslove.jpg`,
                 tweetText: `TO THE GULAG`,
             },
         ],
